@@ -1,50 +1,21 @@
-# Hoooho Design System
+---
 
-Version: V1.0
-
-Status: Frozen
+# AI Development Instruction
 
 
-## Design Source
+当Codex读取本目录时：
 
-所有 UI 必须以 Figma 冻结稿为最高标准。
+请按照以下顺序：
 
-开发时：
-
-Figma > Design Token > Code
-
-
-禁止自行重新设计。
-
-
-## Platform
-
-优先：
-
-Mobile Web
-
-其次：
-
-Mini Program
-
-Desktop Web
+1. 阅读design-token.md
+2. 阅读components.md
+3. 阅读pages中的页面规范
+4. 查看assets中的设计图片
+5. 根据Figma实现
 
 
-## Core Style
+不要重新设计。
 
-医疗健康服务产品。
+目标：
 
-视觉目标：
-
-简洁
-清晰
-可信
-
-
-禁止：
-
-科技机器人风格
-
-AI聊天工具风格
-
-复杂医疗后台风格
+1:1还原Hoooho设计。
